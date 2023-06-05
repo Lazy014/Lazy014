@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [tahmidanjum320@gmail.com](mailto:tahmidanjum320@gmail.com)
-* 🧠  I'm learning Redux, Next.js, Android Development, Django
+* 🧠  I'm currently learning Redux, Next.js, Android Development, Django
 
 ### Skills
 
